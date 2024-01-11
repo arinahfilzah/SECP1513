@@ -41,7 +41,6 @@ Pure Science Stream | PT3 : 7A 1B 1C | SPM : 8A 1B</p>
 <ul>
 <li>
 <p>Assignment 1<br>
-- [ Assignment 1 ](https://github.com/arinahfilzah/e-portfolio/blob/main/Assignment/Assignment%201%20TIS.pdf)
 <a href="https://github.com/arinahfilzah/e-portfolio/blob/main/Assignment/Assignment%201%20TIS.pdf">https://github.com/arinahfilzah/e-portfolio/blob/main/Assignment/Assignment 1 TIS.pdf</a></p>
 </li>
 <li>
