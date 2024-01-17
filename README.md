@@ -2,8 +2,9 @@
 
 
 ---
-
-<h1 id="my-profile">My Profile</h1>
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/147329911?v=4
+s=400&u=9653b354f34a939e158501abb2da92bb8cfaf830&v=4"alt="Image"width="200" height="200"></p>
 
 <p>Hi, I’m Arinah Filzah.  I’m currently pursuing my study in Bachelor of Computer Science (Software Engineering) in Universiti Teknologi Malaysia. I’m dedicated to learning, staying updated on industry trends, and fostering innovation in collaborative environments, with a strong goal of making significant contributions to software development.</p>
 <p><strong>EDUCATION BACKGROUND :</strong></p>
