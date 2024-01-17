@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="my-profile">My Profile</h1>
 
