@@ -38,7 +38,7 @@ Pure Science Stream | PT3 : 7A 1B 1C | SPM : 8A 1B</p>
 
 <ul>
 <li>
-<h3><a href="(Assignment1TIS).pdf">Industrial Visit to NALI 2023</a></h3>
+<h3><a href="(Assignment 1 TIS).pdf">Industrial Visit to NALI 2023</a></h3>
 </li>
 <li>
 <h3><a href="(Assignment-2-TIS).pdf">Industrial Talk on Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.</a></h3>
