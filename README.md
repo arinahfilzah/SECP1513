@@ -39,15 +39,23 @@ Pure Science Stream | PT3 : 7A 1B 1C | SPM : 8A 1B</p>
 <ul>
 <li>
 <h3><a href="Assignment 1 TIS.pdf">Industrial Visit to NALI 2023</a></h3>
+The visit to New Academia Learning Innovation (NALI) introduced me to the world of innovative teaching and learning techniques in education, which emphasise a student-centered and blended learning philosophy that incorporates a variety of learning modes and resources. This visit improved my perspective on ICT and given a better grasp of the most recent ICT tools and technologies in teaching and learning that are closely related to TIS subject. Overall, the innovations have the potential to significantly improve education. Aside from that, interacting with innovators improved my communication and social skills. This opportunity excites me because it allows me to put everything I've learned to good use and make a significant contribution to education in the future.
 </li>
 <li>
 <h3><a href="Assignment 2 TIS.pdf">Industrial Talk on Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.</a></h3>
+Clarity Techworks' industry speak was eye-opening, providing a realistic picture of real-world industry life. The speakers provided insightful information about tech job scopes such as QA testing analyst, Android and web developer, as well as practical life advice, which helped me comprehend the work scope and skills required for each tech job. Furthermore, as a result of this talk, I'm beginning to fully utilise social sites such as LinkedIn and Github to interact with expert and professional workers in industry technology and demonstrate my skills. This talk taught me that in order to remain relevant in this industry, you must have practical problem-solving abilities, communication skills, and a desire to learn new things.
 </li>
 <li>
 <h3><a href="Assignment 3 TIS.pdf">Industrial Visit to UTMDigital and the Attended Virtual Talk</a></h3>
+The visit to UTM Digital and the virtual talk were remarkable experiences since I was able to observe their work environment, modern facilities, and server operation in the UTM Data Centre. This tour helped me better grasp each department's role in providing excellent services to all UTM citizens. The staffs also assisted us in navigating the visit by offering a thorough description of each department's scope.
 </li>
 <li>
 <h3><a href="Assignment 4 TIS.pdf">Industrial Talk on System Development @ Credence (TM Subsidiary)</a></h3>
+The industry talk regarding the system development from the speaker has clarified my vision of becoming a successful system developer within the next four years. The speaker delivered a thoughtful story about her life journey, which began at the bottom and finished with her becoming a professional AI operator despite facing hurdles but never giving up.
 </li>
 <li>
 <h3><a href="PC Assemble Lab.pdf">PC Assemble Lab</a></h3>
+From this PC assemble lab, My team and I got to learn a basic fundamental on disassamble and assemble the PC by doing it practically. We studied how to construct it step by step, beginning with opening the case and ending with the last step guided by the lab's staff. Overall, this lab was one of the greatest activities for putting our basic knowledge into practice while also developing communication and teamwork skills to ensure the PC runs effectively.
+</li>
+<li>
+<h3><a href="Design Thinking.pdf">Desgn Thinking</a></h3>
