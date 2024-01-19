@@ -24,8 +24,32 @@ Pure Science Stream | PT3 : 7A 1B 1C | SPM : 8A 1B</p>
 </ul>
 
 <h1 id="skills">Skills</h1>
+
+<h1 id="languages-and-tools">Languages and Tools</h1>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
+<h1 id="leadership">Leadership</h1>
+<ul>
+<li>Ahli Rakan JKM KTDI | 2023/2024</li>
+<li>Committee Member of Treasure Hunt Programme | 2022</li>
+<li>Committee Member of Tunku Kurshiah Super Six Rugby Tournament | 2020</li>
+<li>3K Leader for Mahsuri’s house | 2021</li>
+<li>Badan Agama dan Akhlak (BADAR) | 2020-2021</li>
+<li>Captain for Volleyball Team | 2019</li>
+</ul>
+
+<h1 id="contributions-and-involvement">Contributions and Involvement</h1>
+<ul>
+<li>Volunteer in Gotong Royong Resak | 2023</li>
+<li>High School Graduate Capabilities (HSGC) | 2021</li>
+<li>Digital Competency Score | 2021</li>
+<li>Kangaroo Math Competition | 2021</li>
+<li>First Place in Girl Guide Choir Competition State Level | 2020</li>
+<li>MSSD Volleyball | 2019-2020</li>
+<li>Malaysian Future Leader School (MFLS) | 2019</li>
+<li>Apple Learning Camp (ALC) | 2019</li>
+</ul>
 
 <h1 id="projects">Projects</h1>
 
