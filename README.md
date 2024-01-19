@@ -24,6 +24,13 @@ Pure Science Stream | PT3 : 7A 1B 1C | SPM : 8A 1B</p>
 </ul>
 
 <h1 id="skills">Skills</h1>
+<ul>
+<li><strong>Multitasking :</strong> Able to handle various tasks on a daily basis.</li>
+<li><strong>Detail-oriented :</strong> Capable of noticing and focusing on crucial minor of a task.</li>
+<li><strong>Time-management :</strong> Capable of meeting deadlines and completing things on-time.</li>
+<li><strong>Teamwork :</strong> Capable of working in a team-setting environment to achieve common goals.</li>
+<li><strong>Communication :</strong> Able to communicate efficiently with people, transmitting ideas, thoughts, and information in an understandable manner that promotes a shared understanding.</li>
+</ul>
 
 <h1 id="languages-and-tools">Languages and Tools</h1>
 <p align="left">
