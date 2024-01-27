@@ -95,4 +95,5 @@ The industry talk regarding the system development from the speaker has clarifie
 From this PC assemble lab, My team and I got to learn a basic fundamental on disassamble and assemble the PC by doing it practically. We studied how to construct it step by step, beginning with opening the case and ending with the last step guided by the lab's staff. Overall, this lab was one of the greatest activities for putting our basic knowledge into practice while also developing communication and teamwork skills to ensure the PC runs effectively.
 </li>
 <li>
-<h3><a href="Design Thinking.pdf">Desgn Thinking</a></h3>
+<h3><a href="Design Thinking.pdf">Design Thinking</a></h3>
+Design thinking can help me realise my objective of becoming a good software engineer by allowing me to identify user needs, describe challenges, design tangible solutions, and iteratively develop and test prototypes. Incorporating design thinking into my programming allows me to create more usable and inventive software in the future. This project also promotes a team-oriented environment in order to attain a single aim. 
