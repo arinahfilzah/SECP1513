@@ -15,7 +15,7 @@ Bachelor of Computer Science (Software Engineering)</p>
 </li>
 <li>
 <p>Centre of Foundation Studies, UiTM Dengkil | 2022-2023<br>
-Pure Science | CGPA : 3.80</p>
+Pure Science | CGPA : 3.79</p>
 </li>
 <li>
 <p>Tunku Kurshiah College | 2017-2021<br>
